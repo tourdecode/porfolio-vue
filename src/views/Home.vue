@@ -222,7 +222,7 @@ Awards
                                 </div>
                                 <div class="user">
                                     <div class="img">
-                                        <img :src="profile.awards.images" alt="{{profile.awards.fullname}}" />
+                                        <img :src="profile.awards.images" alt="{{profile.awards.fullname}}" v-if="false" />
                                     </div>
                                     <div class="info">
                                         <div class="name">{{profile.awards.fullname}}</div>

@@ -51,7 +51,7 @@ export default {
                 year: "2019 - Present",
                 subject: "CTO & Developer",
                 title: "Decodethailand Team.",
-                desc: "Work in a freeland as a team.",
+                desc: "Work in a freelance as a team.",
             },
             {
                 isActive: true,

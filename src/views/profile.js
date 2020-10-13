@@ -8,7 +8,7 @@ export default {
     county: "Thailand",
     address: "Bangkok",
     freelance: "Available",
-    about: "I am a working style planner. And web developer, i graduated directly in software development And develop websites for many well-known national and government agencies and over the past 6 years I have experienced almost all types of websites.",
+    about: "I’m working as a style planner and web developer. I’m graduated in software development and develop websites for many firms and government agencies for over the past 6 years, I have gained experiences via types of websites.",
     images: "/images/profile/wewebplus-tour-05457-960x960.jpg",
     no_images: "/images/profile/wewebplus-tour-05457-960x960.jpg",
     social: {

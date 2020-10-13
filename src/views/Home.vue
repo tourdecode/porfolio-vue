@@ -184,13 +184,13 @@ About
 Awards
 
 -->
-                <div class="content services" v-if="false">
+                <div class="content services">
 
                     <!-- title -->
-                    <div class="title">Awards</div>
+                    <div class="title" v-if="false">Awards</div>
 
                     <!-- content -->
-                    <div class="row service-items border-line-v">
+                    <div class="row service-items border-line-v" v-if="false">
                         <!-- service item -->
                         <div class="col col-d-6 col-t-6 col-m-12 border-line-h" v-for="(award, index) in profile.awards.list" :key="index">
                             <div class="service-item">
@@ -215,7 +215,7 @@ Awards
                     <div class="row">
                         <div class="col col-d-12 col-t-12 col-m-12 border-line-v">
                             <div class="revs-item">
-                                <div class="text">
+                                <div class="text" v-if="false">
                                     <div>
                                         {{profile.awards.desc}}
                                     </div>

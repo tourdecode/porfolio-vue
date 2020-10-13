@@ -18,7 +18,7 @@ export default {
     },
     work:[
         "Web Developer",
-        "iOS Developer",
+        "Mobile application Developer",
         "FullStack Developer",
         "Research and Development",
     ],

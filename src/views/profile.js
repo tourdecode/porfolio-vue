@@ -34,7 +34,7 @@ export default {
     ],
     awards: {
         fullname: "Atsadet Khwanchun",
-        images: "/images/profile/wewebplus-05971-172x172.jpg",
+        images: "/images/profile/wewebplus-tour-05971-172x172.jpg",
         work: "FullStack Developer",
         desc: "All awards received since college.",
         list: [
